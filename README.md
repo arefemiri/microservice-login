@@ -1,8 +1,7 @@
-# dissco-microservice based on Docker, PHP, Symfony framework and flex
+# microservice login based on Docker, PHP, Symfony framework and flex
 ***
 registration and login and data info API.
 
-This is test project for diss-co company.
 I build this microservice inside Docker (https://www.docker.com/)
 
 
@@ -60,7 +59,7 @@ docker-compose  up -d
 please run below command inside of php container:
 
 ```
-cd dissco/
+cd ]co/
 composer install 
 ```
 
