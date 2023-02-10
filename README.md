@@ -1,4 +1,4 @@
-# microservice login based on Docker, PHP, Symfony framework and flex
+# Microservice Project based on Docker, PHP, Symfony framework and flex
 ***
 registration and login and data info API.
 
